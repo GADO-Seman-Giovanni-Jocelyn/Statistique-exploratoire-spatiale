@@ -1,0 +1,1 @@
+Dans ce TP, nous avons travaillé sur les données ACLED renseignant sur les différentes attaques en Afrique. Plus précisément, il a été question de fixer un pays et de calculer les différentes attaques répertoriées par régions puis de créer des rasters de résolution 10km*10km sur ce pays en renseignant le nombre d'attaques pris séparément puis en classe.
